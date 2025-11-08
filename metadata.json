@@ -1,0 +1,8 @@
+{
+  "name": "3.7 VOICE of Portals of Consciousness DESTRIBUIDO",
+  "description": "Aqui já está pronto toda arquitetura de voz e texto, só falta ajustar os comandos de voz",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
